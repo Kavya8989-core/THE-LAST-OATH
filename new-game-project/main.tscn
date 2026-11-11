@@ -5,3 +5,4 @@
 [node name="main" type="Node2D" unique_id=523556470]
 
 [node name="mc" parent="." unique_id=1954222333 instance=ExtResource("1_ig7tw")]
+scale = Vector2(3, 3)
