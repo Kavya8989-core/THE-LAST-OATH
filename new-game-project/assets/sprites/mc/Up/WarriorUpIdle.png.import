@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cle8f5oqk00r"
-path="res://.godot/imported/WarriorUpIdle.png-54ab65fd4cce5256c6cffd212a9e7516.ctex"
+path="res://.godot/imported/WarriorUpIdle.png-1192eecbf3e1aa3891a626f6ab55cdd7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/mc/Up/Png/WarriorUpIdle.png"
-dest_files=["res://.godot/imported/WarriorUpIdle.png-54ab65fd4cce5256c6cffd212a9e7516.ctex"]
+source_file="res://assets/sprites/mc/Up/WarriorUpIdle.png"
+dest_files=["res://.godot/imported/WarriorUpIdle.png-1192eecbf3e1aa3891a626f6ab55cdd7.ctex"]
 
 [params]
 
