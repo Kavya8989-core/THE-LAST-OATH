@@ -3,6 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://bvm033e4xvyr0" path="res://assets/sprites/mc/Down/WarriorDownAttack01.png" id="1_5y6vd"]
 [ext_resource type="Texture2D" uid="uid://c242176y1eifm" path="res://assets/sprites/mc/Left/WarriorLeftAttack01.png" id="1_48h50"]
 [ext_resource type="Texture2D" uid="uid://do6kfxvn636kb" path="res://assets/sprites/mc/Right/WarriorRightAttack01.png" id="1_fr2rp"]
+[ext_resource type="Script" uid="uid://cn28u77yr8og3" path="res://mc.gd" id="1_kvtap"]
 [ext_resource type="Texture2D" uid="uid://mn52dq74oy7x" path="res://assets/sprites/mc/Right/WarriorRightAttack02.png" id="2_26lcl"]
 [ext_resource type="Texture2D" uid="uid://cye3ifdo0uj4a" path="res://assets/sprites/mc/Up/WarriorUpAttack01.png" id="3_1b6wv"]
 [ext_resource type="Texture2D" uid="uid://2a360ksqmi6l" path="res://assets/sprites/mc/Right/WarriorRightAttack03.png" id="3_5tkbk"]
@@ -1272,6 +1273,7 @@ animations = [{
 }]
 
 [node name="mc" type="CharacterBody2D" unique_id=1954222333]
+script = ExtResource("1_kvtap")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1487227507]
 sprite_frames = SubResource("SpriteFrames_74c84")
